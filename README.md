@@ -1,2 +1,2 @@
 # GGType-TypingTestWebsite
-I have created ggtype, a VERY minimalistic (a.k.a me being a ultra noob at HTML) typing test website. The WPM can get VERY lopsided sometimes, but generally it's correct.
+Simple typing test website. Created in a day with HTML and JS. Sometimes there are errors in the WPM but this is very rare.
